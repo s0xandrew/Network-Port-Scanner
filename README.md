@@ -134,8 +134,7 @@ network-port-scanner/
 ## 👨‍💻 Author
 
 **Sourabh (s0xandrew)**  
-Self-taught cybersecurity enthusiast | JEE Main 2026  
-Building towards IIT Kanpur B.Cyber (Wadhwani School of AI)
+Self-taught cybersecurity enthusiast |
 
 ---
 
