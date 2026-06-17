@@ -3,9 +3,6 @@
 A multi-threaded Python port scanner that performs TCP connect scans,
 banner grabbing, and automated risk assessment on target hosts.
 
-Built as part of my self-taught cybersecurity sprint for 
-IIT Kanpur B.Cyber application (Wadhwani School of AI).
-
 ---
 
 ## ⚡ Features
